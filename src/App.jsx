@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       {/* <RouterProvider router={router} /> */}
-      <h1>React Template</h1>
+      <h1>React Daisy UI Template</h1>
     </>
   );
 };

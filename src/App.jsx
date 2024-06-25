@@ -6,7 +6,9 @@ const App = () => {
   return (
     <>
       {/* <RouterProvider router={router} /> */}
-      <h1>React Template</h1>
+      <h1 className="text-3xl font-bold underline">
+        React + Tailwind CSS Template
+      </h1>
     </>
   );
 };
